@@ -1,0 +1,6 @@
+[
+    {"name":"kilogram", "value":"kilogram","text":"Kilogram"},
+    {"name":"gram", "value":"gram", "text":"Gram"},
+    {"name":"miligram", "value":"miligram", "text":"Miligram"},
+    {"name":"pound", "value":"pound", "text":"Pound"}
+]
